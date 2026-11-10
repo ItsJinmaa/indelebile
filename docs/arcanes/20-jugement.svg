@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 520" width="300" height="520" role="img" aria-label="LE JUGEMENT : Les Veilleurs · Témoins">
+  <rect width="300" height="520" rx="18" fill="#0e0b10"/>
+  <rect x="10" y="10" width="280" height="500" rx="12" fill="none" stroke="#c9a54a" stroke-width="2"/>
+  <rect x="18" y="18" width="264" height="484" rx="8" fill="none" stroke="#8a7238" stroke-width="1"/>
+  <path fill="none" stroke="#8a7238" stroke-width="1.5" stroke-linecap="round" transform="translate(22 22) scale(1 1)" d="M0 18 V0 H18 M6 26 c0 -12 8 -20 20 -20"/><path fill="none" stroke="#8a7238" stroke-width="1.5" stroke-linecap="round" transform="translate(278 22) scale(-1 1)" d="M0 18 V0 H18 M6 26 c0 -12 8 -20 20 -20"/><path fill="none" stroke="#8a7238" stroke-width="1.5" stroke-linecap="round" transform="translate(22 498) scale(1 -1)" d="M0 18 V0 H18 M6 26 c0 -12 8 -20 20 -20"/><path fill="none" stroke="#8a7238" stroke-width="1.5" stroke-linecap="round" transform="translate(278 498) scale(-1 -1)" d="M0 18 V0 H18 M6 26 c0 -12 8 -20 20 -20"/>
+  <text x="150" y="70" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#c9a54a" letter-spacing="4">XX</text>
+  <path stroke="#c9a54a" stroke-width="1.5" d="M95 86 H205"/>
+  <circle cx="150" cy="86" r="3" fill="#c9a54a"/>
+  <circle cx="150" cy="255" r="105" fill="none" stroke="#8a7238" stroke-width="1" stroke-dasharray="2 6"/>
+  
+      <path fill="none" stroke="#c9a54a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" d="M98 262 L182 218"/>
+      <path fill="none" stroke="#c9a54a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" d="M182 218 L198 192 L210 222 Z"/>
+      <path fill="none" stroke="#c9a54a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" d="M92 258 l4 10"/>
+      <path fill="none" stroke="#c9a54a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" d="M128 246 L160 229 L160 265 L128 282 Z"/>
+      <path fill="none" stroke="#8a7238" stroke-width="1.5" stroke-linecap="round" d="M144 240 v34 M130 263 l28 -15"/>
+      <path fill="none" stroke="#8a7238" stroke-width="1.5" stroke-linecap="round" d="M212 196 l16 -10 M216 210 l20 -2 M202 186 l6 -18"/>
+      <path fill="none" stroke="#8a7238" stroke-width="1.5" stroke-linecap="round" d="M108 330 h20 M140 330 h20 M172 330 h20"/>
+      <path fill="none" stroke="#c9a54a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" d="M118 330 v-16 M150 330 v-20 M182 330 v-16"/>
+  <path stroke="#c9a54a" stroke-width="1.5" d="M95 404 H205"/>
+  <text x="150" y="440" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="22" fill="#c9a54a" letter-spacing="3">LE JUGEMENT</text>
+  <text x="150" y="470" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="12.5" font-style="italic" fill="#8a7238">Les Veilleurs · Témoins</text>
+</svg>

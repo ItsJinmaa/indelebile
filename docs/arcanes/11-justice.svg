@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 520" width="300" height="520" role="img" aria-label="LA JUSTICE : L&#8217;Inquisiteur · Vérificateur">
+  <rect width="300" height="520" rx="18" fill="#0e0b10"/>
+  <rect x="10" y="10" width="280" height="500" rx="12" fill="none" stroke="#c9a54a" stroke-width="2"/>
+  <rect x="18" y="18" width="264" height="484" rx="8" fill="none" stroke="#8a7238" stroke-width="1"/>
+  <path fill="none" stroke="#8a7238" stroke-width="1.5" stroke-linecap="round" transform="translate(22 22) scale(1 1)" d="M0 18 V0 H18 M6 26 c0 -12 8 -20 20 -20"/><path fill="none" stroke="#8a7238" stroke-width="1.5" stroke-linecap="round" transform="translate(278 22) scale(-1 1)" d="M0 18 V0 H18 M6 26 c0 -12 8 -20 20 -20"/><path fill="none" stroke="#8a7238" stroke-width="1.5" stroke-linecap="round" transform="translate(22 498) scale(1 -1)" d="M0 18 V0 H18 M6 26 c0 -12 8 -20 20 -20"/><path fill="none" stroke="#8a7238" stroke-width="1.5" stroke-linecap="round" transform="translate(278 498) scale(-1 -1)" d="M0 18 V0 H18 M6 26 c0 -12 8 -20 20 -20"/>
+  <text x="150" y="70" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#c9a54a" letter-spacing="4">XI</text>
+  <path stroke="#c9a54a" stroke-width="1.5" d="M95 86 H205"/>
+  <circle cx="150" cy="86" r="3" fill="#c9a54a"/>
+  <circle cx="150" cy="255" r="105" fill="none" stroke="#8a7238" stroke-width="1" stroke-dasharray="2 6"/>
+  
+      <path fill="none" stroke="#c9a54a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" d="M150 175 V340 M140 340 h20 M138 195 h24"/>
+      <path fill="none" stroke="#c9a54a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" d="M95 215 H205"/>
+      <path fill="none" stroke="#8a7238" stroke-width="1.5" stroke-linecap="round" d="M95 215 L78 268 M95 215 L112 268 M205 215 L188 268 M205 215 L222 268"/>
+      <path fill="none" stroke="#c9a54a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" d="M74 268 h42 a21 12 0 0 1 -42 0 z M184 268 h42 a21 12 0 0 1 -42 0 z"/>
+      <path fill="none" stroke="#c9a54a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" d="M150 165 l-6 10 h12 z"/>
+  <path stroke="#c9a54a" stroke-width="1.5" d="M95 404 H205"/>
+  <text x="150" y="440" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="22" fill="#c9a54a" letter-spacing="3">LA JUSTICE</text>
+  <text x="150" y="470" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="12.5" font-style="italic" fill="#8a7238">L&#8217;Inquisiteur · Vérificateur</text>
+</svg>

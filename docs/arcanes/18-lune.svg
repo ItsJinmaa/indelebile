@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 520" width="300" height="520" role="img" aria-label="LA LUNE : Menace · preuve hallucinée">
+  <rect width="300" height="520" rx="18" fill="#0e0b10"/>
+  <rect x="10" y="10" width="280" height="500" rx="12" fill="none" stroke="#c9a54a" stroke-width="2"/>
+  <rect x="18" y="18" width="264" height="484" rx="8" fill="none" stroke="#8a7238" stroke-width="1"/>
+  <path fill="none" stroke="#8a7238" stroke-width="1.5" stroke-linecap="round" transform="translate(22 22) scale(1 1)" d="M0 18 V0 H18 M6 26 c0 -12 8 -20 20 -20"/><path fill="none" stroke="#8a7238" stroke-width="1.5" stroke-linecap="round" transform="translate(278 22) scale(-1 1)" d="M0 18 V0 H18 M6 26 c0 -12 8 -20 20 -20"/><path fill="none" stroke="#8a7238" stroke-width="1.5" stroke-linecap="round" transform="translate(22 498) scale(1 -1)" d="M0 18 V0 H18 M6 26 c0 -12 8 -20 20 -20"/><path fill="none" stroke="#8a7238" stroke-width="1.5" stroke-linecap="round" transform="translate(278 498) scale(-1 -1)" d="M0 18 V0 H18 M6 26 c0 -12 8 -20 20 -20"/>
+  <text x="150" y="70" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#c9a54a" letter-spacing="4">XVIII</text>
+  <path stroke="#8e1b24" stroke-width="1.5" d="M95 86 H205"/>
+  <circle cx="150" cy="86" r="3" fill="#8e1b24"/>
+  <circle cx="150" cy="255" r="105" fill="none" stroke="#8a7238" stroke-width="1" stroke-dasharray="2 6"/>
+  
+      <path fill="none" stroke="#c9a54a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" d="M170 180 a55 55 0 1 0 0 110 a44 44 0 1 1 0 -110 z"/>
+      <path fill="none" stroke="#8a7238" stroke-width="1.5" stroke-linecap="round" d="M112 300 v6 M132 310 v6 M152 302 v6 M172 312 v6 M192 304 v6"/>
+      <path fill="none" stroke="#c9a54a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" d="M92 345 V300 h18 V345 M190 345 V300 h18 V345 M84 345 h132"/>
+  <path stroke="#8e1b24" stroke-width="1.5" d="M95 404 H205"/>
+  <text x="150" y="440" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="22" fill="#c9a54a" letter-spacing="3">LA LUNE</text>
+  <text x="150" y="470" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="12.5" font-style="italic" fill="#8a7238">Menace · preuve hallucinée</text>
+</svg>
