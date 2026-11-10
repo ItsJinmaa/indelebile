@@ -1,0 +1,19 @@
+# Paramètres de l'expérience (exigés par le sujet, section reproductibilité).
+# Les empreintes (digest) des modèles seront relevées automatiquement par `make reproduce`.
+
+graine: 20261114
+
+modeles:
+  principal:  { etiquette: "qwen2.5:7b",   digest: "a-relever" }  # tient sur un PC de 8 Go
+  second:     { etiquette: "qwen2.5:3b",   digest: "a-relever" }  # ablation : taille différente
+  minuscule:  { etiquette: "qwen2.5:0.5b", digest: "a-relever" }  # CI : reproduce-small
+
+llm:
+  temperature: 0
+  repetitions: 3   # mesures dépendant du modèle : moyenne et écart type sur 3 passages
+
+evaluation:
+  documents: 100000
+  alterations: 100
+  reecritures_historique: 10
+  questions: 60
