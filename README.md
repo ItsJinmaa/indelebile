@@ -10,6 +10,37 @@ Il prouve qu'une création (flash de tatouage, dessin, morceau, texte) existait
 
 **Règle d'or : le modèle de langage décide et explique, le code calcule.**
 
+## Pourquoi ce projet
+
+**Le problème.** Dans le milieu du tatouage et de l'art alternatif, le vol de
+créations est courant : flashs de tatoueurs repris sans accord, dessins copiés
+sur les réseaux sociaux, morceaux de groupes underground réutilisés sans crédit.
+
+En France, le droit d'auteur naît automatiquement à la création : nul besoin de
+déposer une œuvre pour en être l'auteur. La vraie difficulté, en cas de litige,
+est de **prouver qu'on l'avait avant l'autre**.
+
+**Ce qui existe.** L'enveloppe Soleau de l'INPI, la lettre recommandée envoyée
+à soi-même, ou l'horodatage RFC 3161 par un tiers de confiance. Ces solutions
+reposent toutes sur la confiance accordée à un organisme.
+
+**Ce que fait Indélébile.** L'artiste dépose son œuvre dès qu'elle est finie.
+Le service en calcule l'empreinte, la signe, et l'inscrit dans un journal
+public infalsifiable (arbre de Merkle, comme la Certificate Transparency qui
+sécurise les certificats du web). L'artiste peut ensuite demander, en langage
+naturel : « Mon flash *Corbeau n°12* existait-il avant le 1er décembre ? »
+L'agent répond uniquement à partir de preuves calculées, que **n'importe qui
+peut revérifier** sans faire confiance au service.
+
+| Indélébile prouve | Indélébile ne prouve pas |
+|---|---|
+| Que ce fichier exact existait à une date donnée | Qui est l'auteur (un voleur qui dépose en premier aura la date la plus ancienne) |
+| Qu'il n'a pas été retouché depuis | Qu'un tribunal donnera raison à l'artiste : c'est un élément de preuve, pas un jugement |
+| Que l'historique du journal n'a pas été réécrit | Qu'une œuvre *ressemblant* à une autre en est une copie |
+
+> Projet pédagogique (module de cryptographie appliquée et IA agentique).
+> Il démontre un principe ; ce n'est pas un service juridique en production.
+
 ## Les arcanes
 
 | Arcane | Agent | Rôle officiel |
