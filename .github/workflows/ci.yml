@@ -1,0 +1,14 @@
+name: CI
+on:
+  push:
+  pull_request:
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v5
+      - name: Installer les dépendances
+        run: uv sync --locked
+      - name: Tests et couverture (seuil 70 %)
+        run: uv run pytest --cov --cov-report=term-missing

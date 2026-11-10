@@ -1,4 +1,5 @@
 # Indélébile : les arcanes de la preuve
+[![CI](https://github.com/ItsJinmaa/indelebile/actions/workflows/ci.yml/badge.svg)](https://github.com/ItsJinmaa/indelebile/actions/workflows/ci.yml)
 
 Service de notarisation multi-agents (projet Notaria, sujet 8).
 Il prouve qu'une création (flash de tatouage, dessin, morceau, texte) existait
